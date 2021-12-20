@@ -1,9 +1,10 @@
 ## COVID Tracker
 
-I decided to go ride the 'bleeding edge' and use Vite + Vue3 + Vuex4
-I went a little bit over time, spend about 6 hours.
+I decided to go ride the 'bleeding edge' and use Vite + Vue3 + Vuex4.
 
-Some findings.
+Spend about 6 hours, so a little more than was suggested.
+
+Some findings:
 
 - The API has some weird things, like: sometimes the Deaths or Confirmed is not returned as 0 if there are no results.
 - Implementing unit tests on Vue3 was a lot harder than I expected.
