@@ -1,0 +1,36 @@
+{
+  "name": "covid19",
+  "version": "0.0.0",
+  "scripts": {
+    "build": "vite build",
+    "test": "jest",
+    "dev": "vite",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vueform/multiselect": "^2.3.1",
+    "bootstrap": "^5.1.3",
+    "bootstrap-vue-3": "^0.1.0",
+    "vue": "^3.2.25",
+    "vue-router": "4",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.16.5",
+    "@babel/preset-env": "^7.16.5",
+    "@types/jest": "^27.0.3",
+    "@vitejs/plugin-vue": "^2.0.0",
+    "@vue/cli": "^4.5.15",
+    "@vue/cli-plugin-unit-jest": "~4.5.0",
+    "@vue/test-utils": "^2.0.0-rc.17",
+    "babel-jest": "^27.4.5",
+    "jest": "^27.4.5",
+    "sass": "^1.45.0",
+    "ts-jest": "^27.1.2",
+    "typescript": "~3.9.3",
+    "vite": "^2.7.2",
+    "vue-cli": "^2.9.6",
+    "vue-jest": "^5.0.0-alpha.10",
+    "vue3-jest": "^27.0.0-alpha.1"
+  }
+}
